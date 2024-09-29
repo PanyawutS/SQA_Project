@@ -1,0 +1,6 @@
+Use the Observer pattern to write code in Python programming language and write pytest to test 
+the given code that have 100% statement coverage from the requirements below.
+
+Use Observer pattern to design automotive system development by adding features to cars, 
+such as audio system, navigation system or security systems without changing 
+the main structure of the car.
